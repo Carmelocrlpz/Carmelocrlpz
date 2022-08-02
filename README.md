@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carmelocrlpz
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Angular, React and Vuejs
+- 🌱 I’m currently learning Java, Angular, React and Vuejs
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: ccr376@gmail.com
 
